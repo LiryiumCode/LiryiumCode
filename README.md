@@ -1,6 +1,6 @@
 <!-- Vistas del perfil -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=LiryiumCode&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LiryiumCode&style=flat-square&color=e398ee" alt="Profile views" />
 </p>
 
 <h1 align="center">Hi, I'm LiryiumCode 👩‍💻</h1>
