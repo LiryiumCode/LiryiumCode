@@ -39,16 +39,6 @@ _(Aquí aparecerán pronto mis creaciones. ¡Mantente pendiente!)_
 
 ---
 
-### 📬 ¿Cómo contactarme?
-
-<p align="center">
-<a href="https://www.instagram.com/lilivoix/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-</p>
-<p align="center">
-  Si llegaste hasta aquí, gracias por mirar mi perfil.💜
-  
-
----
 <p align="center">"Todavía no sé dónde terminaré, pero ya estoy en camino."🌙👩‍💻</p>
 
 ---
