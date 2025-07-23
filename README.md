@@ -1,6 +1,6 @@
 <!-- Vistas del perfil -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=LiryiumCode&style=flat-square&color=e398ee" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LiryiumCode&style=flat-square&color=838bea" alt="Profile views" />
 </p>
 
 <h1 align="center">Hi, I'm LiryiumCode 👩‍💻</h1>
@@ -52,18 +52,5 @@ _(Aquí aparecerán pronto mis creaciones. ¡Mantente pendiente!)_
 <p align="center">"Todavía no sé dónde terminaré, pero ya estoy en camino."🌙👩‍💻</p>
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-Créditos: [LiryiumCode](https://github.com/LiryiumCode)
 
 Última edición: 22/07/2025
