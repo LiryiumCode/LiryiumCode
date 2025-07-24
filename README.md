@@ -43,4 +43,4 @@ _(Aquí aparecerán pronto mis creaciones. ¡Mantente pendiente!)_
 
 ---
 
-Última edición: 22/07/2025
+Última edición: 23/07/2025
