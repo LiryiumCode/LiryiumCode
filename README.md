@@ -40,7 +40,3 @@ _(Aquí aparecerán pronto mis creaciones. ¡Mantente pendiente!)_
 ---
 
 <p align="center">"Todavía no sé dónde terminaré, pero ya estoy en camino."🌙👩‍💻</p>
-
----
-
-Última edición: 23/07/2025
